@@ -1,0 +1,179 @@
+{
+  "version": 1,
+  "fecha": "2026-11-19",
+  "titulo": "Jueves 19/11",
+  "duracion_min": 25,
+  "nota": "Progresamos un poquito: puente a 14 y plancha a 30 s. Si la plancha se pone pesada, cortá antes, sin drama.",
+  "bloques": [
+    {
+      "nombre": "Calentamiento",
+      "vueltas": 1,
+      "ejercicios": [
+        {
+          "nombre": "Respiración abdominal de pie",
+          "tipo": "tiempo",
+          "reps": null,
+          "segundos": 60,
+          "por_lado": false,
+          "indicacion": "Con las manos en la panza, inflá el abdomen al inhalar y soltá el aire lento.",
+          "respiracion": "Inhalá por la nariz, exhalá lento por la boca.",
+          "imagen": null
+        },
+        {
+          "nombre": "Transferencia de peso (Tai Chi)",
+          "tipo": "tiempo",
+          "reps": null,
+          "segundos": 90,
+          "por_lado": false,
+          "indicacion": "Pies al ancho de los hombros y rodillas blandas; pasá el peso de una pierna a la otra, lento, sin despegar los pies.",
+          "respiracion": "Respirá continuo.",
+          "imagen": "transferencia-de-peso"
+        },
+        {
+          "nombre": "Manos de nube (Tai Chi)",
+          "tipo": "tiempo",
+          "reps": null,
+          "segundos": 90,
+          "por_lado": false,
+          "indicacion": "Rodillas blandas; las manos pasan frente a la cara y la panza mientras la cintura gira de lado a lado.",
+          "respiracion": "Respirá continuo y lento, sin forzar.",
+          "imagen": "manos-de-nube"
+        },
+        {
+          "nombre": "Rodillas arriba sin salto",
+          "tipo": "tiempo",
+          "reps": null,
+          "segundos": 60,
+          "por_lado": false,
+          "indicacion": "Marchá subiendo la rodilla a la altura de la cadera, a ritmo suave.",
+          "respiracion": "Respirá parejo.",
+          "imagen": "rodillas-arriba-marcha"
+        }
+      ]
+    },
+    {
+      "nombre": "Bloque principal",
+      "vueltas": 3,
+      "duracion_vuelta_s": 300,
+      "ejercicios": [
+        {
+          "nombre": "Sentadilla",
+          "tipo": "reps",
+          "reps": 12,
+          "segundos": null,
+          "por_lado": false,
+          "indicacion": "Cola atrás como para sentarte, pecho arriba y rodillas en la línea de los pies.",
+          "respiracion": "Inhalá al bajar, exhalá al subir.",
+          "imagen": "sentadilla"
+        },
+        {
+          "nombre": "Rodillas arriba sin salto",
+          "tipo": "tiempo",
+          "reps": null,
+          "segundos": 45,
+          "por_lado": false,
+          "indicacion": "Marcha rápida con el tronco derecho, apoyando suave.",
+          "respiracion": "Respirá continuo, sin aguantar el aire.",
+          "imagen": "rodillas-arriba-marcha"
+        },
+        {
+          "nombre": "Puente de glúteos",
+          "tipo": "reps",
+          "reps": 14,
+          "segundos": null,
+          "por_lado": false,
+          "indicacion": "Empujá con los talones y apretá arriba un segundo, sin arquear la espalda.",
+          "respiracion": "Exhalá al subir, inhalá al bajar.",
+          "imagen": "puente-de-gluteos"
+        },
+        {
+          "nombre": "Dead bug",
+          "tipo": "reps",
+          "reps": 6,
+          "segundos": null,
+          "por_lado": true,
+          "indicacion": "Con la zona lumbar pegada al piso, estirá el brazo y la pierna contrarios.",
+          "respiracion": "Exhalá al estirar, inhalá al volver.",
+          "imagen": "dead-bug"
+        },
+        {
+          "nombre": "Plancha de rodillas",
+          "tipo": "tiempo",
+          "reps": null,
+          "segundos": 30,
+          "por_lado": false,
+          "indicacion": "Línea recta de las rodillas a la cabeza, panza firme y hombros sobre los codos.",
+          "respiracion": "Respirá continuo.",
+          "imagen": "plancha"
+        },
+        {
+          "nombre": "Bird dog",
+          "tipo": "reps",
+          "reps": 6,
+          "segundos": null,
+          "por_lado": true,
+          "indicacion": "En cuatro apoyos, estirá el brazo y la pierna contrarios sin girar la cadera.",
+          "respiracion": "Exhalá al estirar, inhalá al volver.",
+          "imagen": "bird-dog"
+        },
+        {
+          "nombre": "Pausa caminando",
+          "tipo": "pausa",
+          "reps": null,
+          "segundos": null,
+          "por_lado": false,
+          "indicacion": "Caminá tranqui hasta completar los 5 min de la vuelta.",
+          "respiracion": "",
+          "imagen": null,
+          "completar_vuelta": true
+        }
+      ]
+    },
+    {
+      "nombre": "Vuelta a la calma",
+      "vueltas": 1,
+      "ejercicios": [
+        {
+          "nombre": "Giros de cintura lentos",
+          "tipo": "tiempo",
+          "reps": null,
+          "segundos": 90,
+          "por_lado": false,
+          "indicacion": "Los brazos acompañan sueltos; cada vez más lento.",
+          "respiracion": "Respirá suave.",
+          "imagen": "giros-de-cintura"
+        },
+        {
+          "nombre": "Estiramiento lateral",
+          "tipo": "tiempo",
+          "reps": null,
+          "segundos": 30,
+          "por_lado": true,
+          "indicacion": "Con un brazo arriba, inclinate hacia el costado contrario.",
+          "respiracion": "Inhalá al estirar y soltá el aire en la posición.",
+          "imagen": "estiramiento-lateral"
+        },
+        {
+          "nombre": "Postura quieta (abrazar el árbol)",
+          "tipo": "tiempo",
+          "reps": null,
+          "segundos": 90,
+          "por_lado": false,
+          "indicacion": "Rodillas blandas y brazos como abrazando un árbol; aflojá los hombros.",
+          "respiracion": "Respirá lento por la nariz.",
+          "imagen": "abrazar-el-arbol"
+        },
+        {
+          "nombre": "Respiración abdominal final",
+          "tipo": "tiempo",
+          "reps": null,
+          "segundos": 60,
+          "por_lado": false,
+          "indicacion": "De pie o sentado, manos en la panza, dejá que el pulso baje.",
+          "respiracion": "Inhalá por la nariz, exhalá lento por la boca.",
+          "imagen": null
+        }
+      ]
+    }
+  ]
+}
