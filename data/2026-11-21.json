@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "fecha": "2026-11-21",
+  "titulo": "Sábado 21/11",
+  "duracion_min": 14,
+  "nota": "Sábado suave: movilidad, respiración y Tai Chi lento. Sin apuro, al despertar.",
+  "bloques": [
+    {
+      "nombre": "Calentamiento",
+      "vueltas": 1,
+      "ejercicios": [
+        {
+          "nombre": "Respiración abdominal de pie",
+          "tipo": "tiempo",
+          "reps": null,
+          "segundos": 90,
+          "por_lado": false,
+          "indicacion": "Con las manos en la panza, inflá el abdomen al inhalar y soltá el aire lento.",
+          "respiracion": "Inhalá por la nariz, exhalá lento por la boca.",
+          "imagen": null
+        },
+        {
+          "nombre": "Giros de cintura",
+          "tipo": "tiempo",
+          "reps": null,
+          "segundos": 90,
+          "por_lado": false,
+          "indicacion": "Pies firmes y rodillas blandas; girá desde la cintura y dejá que los brazos cuelguen y acompañen sueltos.",
+          "respiracion": "Respirá continuo, sin aguantar el aire.",
+          "imagen": "giros-de-cintura"
+        },
+        {
+          "nombre": "Transferencia de peso (Tai Chi)",
+          "tipo": "tiempo",
+          "reps": null,
+          "segundos": 90,
+          "por_lado": false,
+          "indicacion": "Pies al ancho de los hombros y rodillas blandas; pasá el peso de una pierna a la otra, lento, sin despegar los pies.",
+          "respiracion": "Respirá continuo.",
+          "imagen": "transferencia-de-peso"
+        }
+      ]
+    },
+    {
+      "nombre": "Tai Chi lento",
+      "vueltas": 1,
+      "ejercicios": [
+        {
+          "nombre": "Abrir y cerrar (Tai Chi)",
+          "tipo": "tiempo",
+          "reps": null,
+          "segundos": 90,
+          "por_lado": false,
+          "indicacion": "Rodillas blandas; las manos frente al pecho se separan y se juntan como si estiraran una bola de aire.",
+          "respiracion": "Inhalá al abrir, exhalá al cerrar.",
+          "imagen": "abrir-y-cerrar"
+        },
+        {
+          "nombre": "Manos de nube (Tai Chi)",
+          "tipo": "tiempo",
+          "reps": null,
+          "segundos": 150,
+          "por_lado": false,
+          "indicacion": "Rodillas blandas; las manos pasan frente a la cara y la panza mientras la cintura gira de lado a lado.",
+          "respiracion": "Respirá continuo y lento, sin forzar.",
+          "imagen": "manos-de-nube"
+        },
+        {
+          "nombre": "Abrazar el árbol (Tai Chi)",
+          "tipo": "tiempo",
+          "reps": null,
+          "segundos": 120,
+          "por_lado": false,
+          "indicacion": "Rodillas apenas flexionadas, brazos redondeados frente al pecho como abrazando un tronco, hombros sueltos.",
+          "respiracion": "Respirá lento y parejo, sin aguantar el aire.",
+          "imagen": "abrazar-el-arbol"
+        }
+      ]
+    },
+    {
+      "nombre": "Vuelta a la calma",
+      "vueltas": 1,
+      "ejercicios": [
+        {
+          "nombre": "Estiramiento lateral",
+          "tipo": "tiempo",
+          "reps": null,
+          "segundos": 90,
+          "por_lado": false,
+          "indicacion": "Brazo arriba y te inclinás suave hacia el otro lado; alterná lados, uno y uno, sin rebotar.",
+          "respiracion": "Exhalá al inclinarte, inhalá al volver al centro.",
+          "imagen": "estiramiento-lateral"
+        },
+        {
+          "nombre": "Respiración abdominal de pie",
+          "tipo": "tiempo",
+          "reps": null,
+          "segundos": 120,
+          "por_lado": false,
+          "indicacion": "Ojos cerrados si querés, manos en la panza, cuerpo quieto y relajado.",
+          "respiracion": "Inhalá por la nariz, exhalá más largo de lo que inhalás.",
+          "imagen": null
+        }
+      ]
+    }
+  ]
+}
